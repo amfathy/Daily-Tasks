@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a58fab95-e0bb-4d3d-8790-a6cd0f7bc2d7",
+    "name": "مكتب السكرتارية",
+    "username": "secretary",
+    "password": "$2a$10$P0AncGTwYKukMfTZ8bRUmupbXxEh9Ip/xwe5QkivTEwJTM6qUTCtC",
+    "role": "secretary"
+  },
+  {
+    "id": "ba51f582-c992-4f80-8725-9ffabb2efaa0",
+    "name": "مكتب الرئيس",
+    "username": "head",
+    "password": "$2a$10$pBbzgZhDYri5SFTHmjOYAer2BZVRQ6RLw76hBWAGFyb4aeBlr7aPy",
+    "role": "head"
+  }
+]
