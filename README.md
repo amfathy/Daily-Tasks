@@ -1,5 +1,5 @@
 # Daily Tasks
-
+During my **military service**, I had the opportunity to build two tools to automate repetitive daily workflows and make internal operations more efficient.
 ## Features
 
 - Role-based authentication (JWT)
